@@ -340,9 +340,8 @@ print(response.json())
 
 <div align="center">
 
-### Sohail Khan
-
-**B.Tech CSE | Galgotias University**
+### SHAIK ASHFAQ HUSSAIIN
+**B.Tech CSE AIML | SRM INSTITUTE OF SCIENCE AND TECHNOLOGY**
 
 [![GitHub](https://img.shields.io/badge/GitHub-sohailkhan--code-black?style=for-the-badge&logo=github)](https://github.com/sohailkhan-code)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sohail-khan-048976262/)
